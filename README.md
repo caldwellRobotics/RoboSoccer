@@ -30,9 +30,9 @@ Your team will have till april 24th to build your robots and then **Victory or V
   
 
 
-**Date:** April 24th  
-**Location:** Caldwell University  
-**Time:** [Insert Start Time] to [Insert End Time]
+**Battle Date:** April 24th  
+**Location:**TBD
+**Time:** [11:00AM] to [1:00PM]
 
 ## Materials Provided
 - Arduino Uno
