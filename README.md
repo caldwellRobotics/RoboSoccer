@@ -3,7 +3,7 @@
 # **RoboSoccer**
 
 
-Welcome to the official handbook for **RoboSoccer **! The first ever Robotics Event at Caldwell University. Get ready to dive into the exciting world of robotic soccer with this hands-on event designed for technology enthusiasts and aspiring engineers. This page contains all the information you need to participate in or follow the event.
+Welcome to the official handbook for #**RoboSoccer **! The first ever Robotics Event at Caldwell University. Get ready to dive into the exciting world of robotic soccer with this hands-on event designed for technology enthusiasts and aspiring engineers. This page contains all the information you need to participate in or follow the event.
 
 ## **About the Event**
 
