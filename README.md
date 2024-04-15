@@ -29,7 +29,7 @@ Welcome to the official handbook for **RoboSoccer** The first ever Robotics Even
 Your team will have till april 24th to build your robots and then **Victory or Valhalla!**
   
 **Battle Date:** April 24th  
-**Location:** TBD
+#**Location:** TBD
 **Time:** 11:00AM to 1:00PM
 
 ## Materials Provided
