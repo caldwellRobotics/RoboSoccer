@@ -29,7 +29,7 @@ Welcome to the official handbook for **RoboSoccer** The first ever Robotics Even
 Your team will have till april 24th to build your robots and then **Victory or Valhalla!**
   
 **Battle Date:** April 24th  
-#**Location:** TBD
+**Location:** TBD  
 **Time:** 11:00AM to 1:00PM
 
 ## Materials Provided
@@ -40,6 +40,21 @@ Your team will have till april 24th to build your robots and then **Victory or V
 - Motors
 
 ## Rules of the Competition
+
+### General Rules
+
+1. **Assembly Location and Mentor Accompaniment**: All robots must be assembled at the CogAI Lab located in the library, and team members must be accompanied by their mentors during the assembly process.
+
+2. **Material Restrictions**: No materials are permitted to be taken outside the premises of the lab at any time during the competition.
+
+3. **Responsibility for Damage or Loss**: Teams are fully responsible for any damage or loss incurred to any components provided. In the event of damage or loss, team members may be subjected to fines.
+
+4. **Qualification Criteria**: To qualify for the competition, each team must fulfill the following criteria:
+   - At least two team member must attend the final event.
+   - A working robot must be completed and presented by the time of the final event.
+
+5. **Optional Additional Components**: Teams have the option to incorporate extra components, beyond those provided, at their own expense.
+
 ### General Competition Rules
 - Each team can have up to [X] members.
 - Robots must fit within the specified dimensions.
