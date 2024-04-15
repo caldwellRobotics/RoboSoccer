@@ -28,11 +28,9 @@ Welcome to the official handbook for **RoboSoccer** The first ever Robotics Even
 **RoboSoccer** challenges teams to build and control robots using provided materials to play soccer. This event is a fantastic opportunity for participants to showcase their engineering and programming skills in a friendly yet competitive environment.
 Your team will have till april 24th to build your robots and then **Victory or Valhalla!**
   
-
-
 **Battle Date:** April 24th  
-**Location:**TBD
-**Time:** [11:00AM] to [1:00PM]
+**Location:** TBD
+**Time:** 11:00AM to 1:00PM
 
 ## Materials Provided
 - Arduino Uno
