@@ -1,9 +1,6 @@
 <p align="center">
-##** RoboSoccer**
-Handbook for Caldwell university's first robotics event " RoboSoccer"
-**April 24th 2024**
 
-
+# **RoboSoccer**
 
 
 Welcome to the official page for **RoboSoccer at Caldwell University**! Get ready to dive into the exciting world of robotic soccer with this hands-on event designed for technology enthusiasts and aspiring engineers. This page contains all the information you need to participate in or follow the event, including materials provided, competition rules, event schedule, and updates.
