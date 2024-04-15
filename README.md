@@ -1,5 +1,5 @@
 <p align="center">
-# RoboSoccer
+##** RoboSoccer**
 Handbook for Caldwell university's first robotics event " RoboSoccer"
 **April 24th 2024**
 
