@@ -25,6 +25,11 @@ Welcome to the official handbook for **RoboSoccer** The first ever Robotics Even
 - [Contact Us](#contact-us)
 
 ## About the Event
+**RoboSoccer** challenges teams to build and control robots using provided materials to play soccer. This event is a fantastic opportunity for participants to showcase their engineering and programming skills in a friendly yet competitive environment.
+Your team will have till april 24th to build your robots and then **Victory or Valhalla!**
+  
+
+
 **Date:** April 24th  
 **Location:** Caldwell University  
 **Time:** [Insert Start Time] to [Insert End Time]
