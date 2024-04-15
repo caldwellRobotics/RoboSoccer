@@ -3,7 +3,7 @@
 # **RoboSoccer**
 
 
-Welcome to the official page for **RoboSoccer at Caldwell University**! Get ready to dive into the exciting world of robotic soccer with this hands-on event designed for technology enthusiasts and aspiring engineers. This page contains all the information you need to participate in or follow the event, including materials provided, competition rules, event schedule, and updates.
+Welcome to the official handbook for **RoboSoccer **! The first ever Robotics Event at Caldwell University. Get ready to dive into the exciting world of robotic soccer with this hands-on event designed for technology enthusiasts and aspiring engineers. This page contains all the information you need to participate in or follow the event.
 
 ## **About the Event**
 
@@ -11,7 +11,7 @@ Welcome to the official page for **RoboSoccer at Caldwell University**! Get read
 
 **Date:** April 24th  
 **Location:** Caldwell University, [Insert Specific Location Here]  
-**Time:** [Insert Start Time] to [Insert End Time]
+**Time:** 11:00AM to 1:00PM
 
 ## **Materials Provided**
 
