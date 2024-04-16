@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="robotic.png" alt="Description of Image">
+  <img src="images/robotic.png" alt="Description of Image">
 </p>
 
 <p align="center">
