@@ -69,7 +69,4 @@ Check here for recent updates about the event.
 Email us at  apandey2@caldwell.edu or reach out on our instagram @caldwellrobotics.
 
 
-*Please note that this section will be updated closer to the event with code snippets that can be used or adapted for the competition.*
-
-```cpp
 
