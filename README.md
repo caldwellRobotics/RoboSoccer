@@ -53,16 +53,13 @@ Your team will have till april 24th to build your robots and then **Victory or V
 5. **Optional Additional Components**: Teams have the option to incorporate extra components, beyond those provided, at their own expense.
 
 ### General Competition Rules
-- Each team can have up to [X] members.
-- Robots must fit within the specified dimensions.
+- At least one team member must be present by 11:00 to qualify for participation.
+- Matches will consist of a basic soccer match played with robots. When a goal is scored, the opposing team will gain possession of the ball. Each match will be 6 minutes long, with a halftime break at the 3-minute mark.
+- The competition will feature a league format. Teams will earn points based on their performance in matches, with more points awarded for wins. Winners will be determined based on total points accumulated throughout the league.
 
-### Safety Regulations
-- All participants must wear safety glasses during the competition.
 
 ## Event Schedule
 - We will be updating this as we go closer to the event.
-
-
 
 
 ## Updates
