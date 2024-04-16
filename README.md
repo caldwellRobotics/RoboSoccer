@@ -18,7 +18,6 @@ Welcome to the official handbook for **RoboSoccer** The first ever Robotics Even
 - [Materials Provided](#materials-provided)
 - [Rules of the Competition](#rules-of-the-competition)
 - [Event Schedule](#event-schedule)
-- [Registration](#registration)
 - [Updates](#updates)
 - [Contact Us](#contact-us)
 
@@ -61,10 +60,8 @@ Your team will have till april 24th to build your robots and then **Victory or V
 - All participants must wear safety glasses during the competition.
 
 ## Event Schedule
-- 09:00 AM - Registration
-- 10:00 AM - Opening Ceremony
-- 10:30 AM - Preliminary Rounds
-- ...
+- We will be updating this as we go closer to the event.
+
 
 
 
@@ -72,7 +69,7 @@ Your team will have till april 24th to build your robots and then **Victory or V
 Check here for recent updates about the event.
 
 ## Contact Us
-Email us at [Insert Contact Email] or reach out on our social media channels.
+Email us at  apandey2@caldwell.edu or reach out on our instagram @caldwellrobotics.
 
 
 *Please note that this section will be updated closer to the event with code snippets that can be used or adapted for the competition.*
