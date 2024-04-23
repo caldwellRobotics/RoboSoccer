@@ -25,8 +25,8 @@ Welcome to the official handbook for **RoboSoccer** The first ever Robotics Even
 **RoboSoccer** challenges teams to build and control robots using provided materials to play soccer. This event is a fantastic opportunity for participants to showcase their engineering and programming skills in a friendly yet competitive environment.
 Your team will have till april 24th to build your robots and then **Victory or Valhalla!**
   
-**Battle Date:** April 24th  
-**Location:** TBD  
+**Battle Date:** April 24th 2024
+**Location:** Student Center Gym
 **Time:** 11:00AM to 1:00PM
 
 ## Materials Provided
@@ -47,7 +47,7 @@ Your team will have till april 24th to build your robots and then **Victory or V
 3. **Responsibility for Damage or Loss**: Teams are fully responsible for any damage or loss incurred to any components provided. In the event of damage or loss, team members may be subjected to fines.
 
 4. **Qualification Criteria**: To qualify for the competition, each team must fulfill the following criteria:
-   - At least two team member must attend the final event.
+   - At least one team member must attend the final event.
    - A working robot must be completed and presented by the time of the final event.
 
 5. **Optional Additional Components**: Teams have the option to incorporate extra components, beyond those provided, at their own expense.
